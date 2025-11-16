@@ -39,9 +39,13 @@ Source of the dataset is QUERA.
 
 ## Key Techniques
 Manual t-tests / p-value
+
 ANOVA
+
 Shapiro
+
 yeojohnson
+
 mannwhitneyu
 
 ## Result
