@@ -17,7 +17,7 @@ Ability to handle real-world sales data
 - Formulate and test two hypotheses manually
 - Draw conclusions based on the computed test statistics
 
-##Hypotheses Tested
+## Hypotheses Tested
 Hypothesis 1:
 There is a significant difference in average profit between two categories of products.
 
